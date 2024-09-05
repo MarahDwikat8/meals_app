@@ -54,7 +54,7 @@ class MealDetailsScreen extends StatelessWidget {
                     borderRadius: BorderRadius.circular(12),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black.withOpacity(0.3), // Shadow effect
+                        color: Colors.black.withOpacity(0.3), 
                         spreadRadius: 2,
                         blurRadius: 5,
                         offset: Offset(0, 3),
@@ -164,3 +164,5 @@ class MealDetailsScreen extends StatelessWidget {
     );
   }
 }
+
+ 
